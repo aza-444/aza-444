@@ -1,69 +1,58 @@
-<!-- ====== HEADER ====== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Salom,+Men+Aza!;🚀+Innovatsion+kod+yozaman.+;👋+Profilega+xush+kelibsiz!">
-</p>
-
-<p align="center">
-  <a href="https://github.com/yaxshioken">
-    <img src="https://github-readme-stats.vercel.app/api?username=yaxshioken&show_icons=true&theme=radical&hide_border=true" alt="Aza's GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/yaxshioken">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxshioken&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
+  <h1>👋 Salom, Men <span style="color:#4CAF50;">Aza</span></h1>
+  <h3>🚀 G‘oyalarni 👉 <strong>KOD</strong>ga aylantiruvchi dasturchi 👨‍💻</h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=yaxshioken&label=Profil%20kirishlari&color=4CAF50&style=flat" alt="Profil Views" />
+    <img src="https://img.shields.io/github/followers/yaxshioken?label=Followers&style=social" alt="GitHub Followers" />
+  </p>
+  <p>
+    <img src="https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif" alt="Coding Ninja" width="200"/>
+  </p>
+</div>
 
 ---
 
-<!-- ====== ABOUT ME ====== -->
-### 🔭 Hozirda ishlayapman:  
-**[SHOPICK 🛒](https://github.com/yaxshioken/shopick.git)**  
-Loyihalarni Docker bilan konteynerlab, barqaror server arxitekturasi yaratmoqdaman.
+#### 🔮 Men kimman?
+> **🧩 Murakkablikni soddalikka aylantiraman.**
 
-### 🌱 O‘rganayotganim:  
-**Docker 🐳** | **Kubernetes ☸️** | **CI/CD ⚙️**
+- 🔨 **HOZIRDA**: [SHOPICK 🛍️](https://github.com/yaxshioken/shopick) ustida ishlayapman  
+- 📚 **O‘rganyapman**: Docker & Kubernetes — loyihalarga konteyner magiyasini olib kiraman  
+- 🤝 **Hamkorlik**: Har doim yangi g‘oyalarga ochiqman!  
+- 💬 **Savollar?** Yozing: yaxshioken@gmail.com  
+---
 
-### 👯 Hamkorlik takliflari:  
-- **Shopick** – front-end & back-end integratsiya  
-- **Django REST API** – autentifikatsiya, to‘lov tizimlari
-
-### 💬 Gaplashamizmi?  
-📫 **Email:** yaxshioken@gmail.com  
-📱 **Telegram:** [@Baratov_777](https://t.me/Baratov_777)
+### 💎 Asosiy Loyihalar
+| Loyiha | Tavsif | Link |
+| :---: | :--- | :--- |
+| 🛍️ SHOPICK | Smart e-commerce platforma | [GitHub](https://github.com/yaxshioken/shopick) |
+| 🌐 DRF-API | Django-Rest API qo‘llanma | [GitHub](https://github.com/yaxshioken/Django-Rest-Framework) |
+| 🔗 Barcha loyihalar | To‘liq portfoliom | [Telegram](https://t.me/Baratov_777) |
 
 ---
 
-<!-- ====== CONNECT ====== -->
-<h3 align="center">🔗 Men bilan bog‘laning:</h3>
+### 🛠️ Texnologiyalar & Asboblar
 <p align="center">
-  <a href="https://dev.to/azizbek" title="Dev.to"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="30" /></a>
-  <a href="https://twitter.com/yaxshioken" title="Twitter"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" /></a>
-  <a href="https://linkedin.com/in/yaxshioken" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" /></a>
-  <a href="https://stackoverflow.com/users/123123123123" title="Stack Overflow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="30" /></a>
-  <a href="https://instagram.com/baratov_444" title="Instagram"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" /></a>
-  <a href="https://www.youtube.com/c/www.youtube.com/@okenyaxshi" title="YouTube"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30" /></a>
-</p>
-
----
-
-<!-- ====== LANGUAGES & TOOLS ====== -->
-<h3 align="center">🛠️ Til va Asboblar:</h3>
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <br><br>
-  <!-- Row 2 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
 </p>
 
 ---
 
-<p align="center">✨ “Kod yozish – mening san’atim, hamda dunyoni o‘zgartirish vositasi.” ✨</p>
+### 📬 Muloqot 
+<div align="center">
+  <a href="mailto:yaxshioken@gmail.com"><img src="https://img.shields.io/badge/✉️-Email-informational?logo=gmail" alt="Email"/></a>
+  <a href="https://t.me/Baratov_777"><img src="https://img.shields.io/badge/💬-Telegram-blue?logo=telegram" alt="Telegram"/></a>
+  <a href="https://twitter.com/yaxshioken"><img src="https://img.shields.io/badge/🐦-Twitter-blue?logo=twitter" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/yaxshioken"><img src="https://img.shields.io/badge/🔗-LinkedIn-blue?logo=linkedin" alt="LinkedIn"/></a>
+</div>
+
+---
+
+> “Yaxshi kod — bu o‘qilishi kinoga o‘xshaydigan skript, uni hamma sevib o‘qiydi.”  
+> _— Aza’s Motto_
