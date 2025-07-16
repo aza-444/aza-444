@@ -3,7 +3,6 @@
   <h3>🚀 G‘oyalarni 👉 <strong>KOD</strong>ga aylantiruvchi dasturchi 👨‍💻</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=yaxshioken&label=Profil%20kirishlari&color=4CAF50&style=flat" alt="Profil Views" />
-    <img src="https://img.shields.io/github/followers/yaxshioken?label=Followers&style=social" alt="GitHub Followers" />
   </p>
   <p>
     <img src="https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif" alt="Coding Ninja" width="200"/>
