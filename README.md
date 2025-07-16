@@ -3,7 +3,7 @@
   <h3>🚀 G‘oyalarni 👉 <strong>KOD</strong>ga aylantiruvchi dasturchi 👨‍💻</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=yaxshioken&label=Profil%20kirishlari&color=4CAF50&style=flat" alt="Profil Views" />
-    <img src="https://img.shields.io/github/followers/yaxshioken?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/yaxshioken />
   </p>
   <p>
     <img src="https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif" alt="Coding Ninja" width="200"/>
@@ -21,14 +21,6 @@
 - 💬 **Savollar?** Yozing: yaxshioken@gmail.com  
 ---
 
-### 💎 Asosiy Loyihalar
-| Loyiha | Tavsif | Link |
-| :---: | :--- | :--- |
-| 🛍️ SHOPICK | Smart e-commerce platforma | [GitHub](https://github.com/yaxshioken/shopick) |
-| 🌐 DRF-API | Django-Rest API qo‘llanma | [GitHub](https://github.com/yaxshioken/Django-Rest-Framework) |
-| 🔗 Barcha loyihalar | To‘liq portfoliom | [Telegram](https://t.me/Baratov_777) |
-
----
 
 ### 🛠️ Texnologiyalar & Asboblar
 <p align="center">
